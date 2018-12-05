@@ -1,0 +1,5 @@
+*.mdproj
+*.sln
+*.userprefs
+*.zip
+node_modules
